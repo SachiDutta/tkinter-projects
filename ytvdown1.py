@@ -32,7 +32,7 @@ label2.place(x=10,y=50)
 animate_label(label2_text, label2, cursor_char)
 
 link = StringVar()
-label3=Label(root, text = 'Paste the yt URL here:',bg='pale violet red', font = 'Helvetica 15 bold').place(x= 20, y = 100)
+label3=Label(root, text = 'Paste the URL here:',bg='pale violet red', font = 'Helvetica 15 bold').place(x= 20, y = 100)
 link_enter = Entry(root, width = 70,textvariable = link).place(x = 20, y = 140)
 
 
