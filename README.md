@@ -6,7 +6,7 @@ They are as follows ->
 ## 1. cdt2: countdown timer 
   > we can set our time in hour:minute:second format after which a 1 second alarm sound plays to refer that the time is up.
 ## 2. imcm: Image compressor 
-  > A short tkinter practice project to obviously minimize the image size (although quality degrades too).
+  > A short tkinter practice project to compress the image size (although the quality degrades too).
 ## 3. passgen: password generator 
   > we can generate our password between the length of 4-12 consisting of alphabets(lowercase & uppercase) , numerical values, punctuations. 
 ## 4. ytvdown: Youtube video downloader
